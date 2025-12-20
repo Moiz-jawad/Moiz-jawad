@@ -199,9 +199,9 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 ### 🌟 Starred Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/DEN-INTERNSHIP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/PixiFusion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/news-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=DEN-INTERNSHIP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/DEN-INTERNSHIP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=PixiFusion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/PixiFusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=news-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/news-app)
 
 </div>
 
