@@ -141,15 +141,6 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Moiz-jawad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 📝 Skills Breakdown
 
@@ -208,6 +199,9 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 ### 🌟 Starred Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/DEN-INTERNSHIP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/PixiFusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moiz-jawad&repo=Moiz-jawad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Moiz-jawad/news-app)
 
 </div>
 
@@ -244,9 +238,9 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 
 ```text
 💻 Coding:          ████████████████████░░░░   85%
-📚 Learning:        ██████████░░░░░░░░░░░░░░   40%
-🎨 Designing:       ██████████████░░░░░░░░░░   60%
-🚀 Deploying:       ██████████████████░░░░░░   75%
+📚 Learning:        ██████████████████████░░   90%
+🎨 Designing:       ██████████████████░░░░░░   75%
+🚀 Deploying:       ██████████████░░░░░░░░░░   60%
 ```
 
 ---
