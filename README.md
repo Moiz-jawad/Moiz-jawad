@@ -19,7 +19,7 @@ const developer = {
   location: "Pakistan",
   passion: "Building scalable web applications",
   currentFocus: "MERN Stack & 3D Web Experiences",
-  funFact: "I turn coffee into code ☕ → 💻"
+  funFact: "I turn coffee into code ☕ → 💻",
 };
 ```
 
@@ -30,6 +30,7 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
+
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,6 +43,7 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 </div>
 
 ### Backend
+
 <div align="center">
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,6 +53,7 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 </div>
 
 ### Tools & Others
+
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,8 +72,16 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
   
 ![Moiz Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moiz-jawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Moiz-jawad&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+</div>
 
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Moiz-jawad&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz-jawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
 </div>
@@ -84,25 +95,33 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 <div align="center">
 
 #### 🚀 E-Commerce Platform
+
 **Tech Stack:** React.js, Node.js, Express, MongoDB, TailwindCSS
+
 - Modern shopping experience with real-time updates
 - Secure payment integration
 - Admin dashboard for product management
 
 #### 🎮 3D Interactive Portfolio
+
 **Tech Stack:** React.js, Three.js, TailwindCSS
+
 - Immersive 3D web experience
 - Interactive 3D models and animations
 - Responsive design with smooth transitions
 
 #### 📱 Social Media Dashboard
+
 **Tech Stack:** React.js, Node.js, Express, MongoDB
+
 - Real-time data visualization
 - User authentication and authorization
 - RESTful API architecture
 
 #### 🎨 Creative Agency Website
+
 **Tech Stack:** HTML, TailwindCSS, JavaScript, Three.js
+
 - Stunning animations and transitions
 - 3D visual effects
 - Fully responsive design
@@ -134,7 +153,7 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Moiz-jawad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Moiz-jawad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
@@ -144,14 +163,14 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 
 <div align="center">
 
-| Frontend | Backend | Database | Tools |
-|:--------:|:-------:|:--------:|:-----:|
-| React.js | Node.js | MongoDB | Git |
-| HTML5 | Express.js | Mongoose | GitHub |
-| CSS3 | RESTful APIs | | Postman |
-| TailwindCSS | JWT Auth | | VS Code |
-| JavaScript | | | Figma |
-| Three.js | | | |
+|  Frontend   |   Backend    | Database |  Tools  |
+| :---------: | :----------: | :------: | :-----: |
+|  React.js   |   Node.js    | MongoDB  |   Git   |
+|    HTML5    |  Express.js  | Mongoose | GitHub  |
+|    CSS3     | RESTful APIs |          | Postman |
+| TailwindCSS |   JWT Auth   |          | VS Code |
+| JavaScript  |              |          |  Figma  |
+|  Three.js   |              |          |         |
 
 </div>
 
