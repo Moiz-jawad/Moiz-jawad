@@ -186,7 +186,7 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,js,threejs,nodejs,express,mongodb,git,github,vscode,postman,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,js,threejs,nodejs,express,mongodb,git,github,vscode,postman,figma,dart,flutter,firebase,supabase&perline=7)](https://skillicons.dev)
 
 </div>
 
