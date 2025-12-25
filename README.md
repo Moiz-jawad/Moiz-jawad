@@ -68,13 +68,13 @@ I'm a passionate **Full Stack Developer** who loves building modern, responsive 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Moiz Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moiz-jawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true)
+<div style="text-align:center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Moiz-jawad&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<img src="https://github-readme-stats.vercel.app/api?username=Moiz-jawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz-jawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&exclude_repo=Moiz-jawad)
+<img src="https://streak-stats.demolab.com/?user=Moiz-jawad&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz-jawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&exclude_repo=Moiz-jawad" />
 
 </div>
 
